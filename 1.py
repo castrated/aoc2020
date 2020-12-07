@@ -1,3 +1,4 @@
+#for part two, just include a num3 section.
 input = '''1650
 1174
 1156
